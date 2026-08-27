@@ -1,0 +1,93 @@
+[
+  {
+    "title": "Problem-Framing Canvas",
+    "type": "canvas",
+    "audience": [
+      "founder",
+      "student"
+    ],
+    "description": "Separate the observed problem, affected customer, decision, and assumptions."
+  },
+  {
+    "title": "Assumption Mapper",
+    "type": "template",
+    "audience": [
+      "founder",
+      "student",
+      "faculty"
+    ],
+    "description": "Rank assumptions by importance and strength of available evidence."
+  },
+  {
+    "title": "Interview Builder",
+    "type": "guide",
+    "audience": [
+      "founder",
+      "student"
+    ],
+    "description": "Prepare neutral customer discovery questions and an evidence log."
+  },
+  {
+    "title": "Competitor Matrix",
+    "type": "worksheet",
+    "audience": [
+      "founder",
+      "student"
+    ],
+    "description": "Compare alternatives by customer, promise, price, and workflow."
+  },
+  {
+    "title": "Market Sizing Worksheet",
+    "type": "model",
+    "audience": [
+      "founder",
+      "student"
+    ],
+    "description": "Document a transparent bottom-up market estimate."
+  },
+  {
+    "title": "Pricing Experiment Designer",
+    "type": "canvas",
+    "audience": [
+      "founder",
+      "student",
+      "faculty"
+    ],
+    "description": "Define a test, outcome measure, stopping rule, and next decision."
+  },
+  {
+    "title": "Unit Economics Model",
+    "type": "model",
+    "audience": [
+      "founder",
+      "student"
+    ],
+    "description": "Connect acquisition, gross margin, retention, and customer value assumptions."
+  },
+  {
+    "title": "Cash Runway Calculator",
+    "type": "interactive",
+    "audience": [
+      "founder",
+      "student"
+    ],
+    "description": "Explore contribution, burn, break-even revenue, and cash runway."
+  },
+  {
+    "title": "Decision Memo",
+    "type": "template",
+    "audience": [
+      "student",
+      "faculty"
+    ],
+    "description": "Present the decision, evidence, uncertainty, recommendation, and next experiment."
+  },
+  {
+    "title": "Sprint Quality Review",
+    "type": "rubric",
+    "audience": [
+      "faculty"
+    ],
+    "description": "Review evidence quality, analytical integrity, usability, and scope discipline."
+  }
+]

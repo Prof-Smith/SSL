@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Retention Decision Sprint",
+    "stage": "validate",
+    "challenge": "Determine why small-business customers do not repeat a core workflow.",
+    "output": "Evidence board",
+    "health": "On track"
+  },
+  {
+    "title": "Cash Runway Dashboard",
+    "stage": "build",
+    "challenge": "Convert operating assumptions into a transparent runway scenario.",
+    "output": "Interactive model",
+    "health": "In review"
+  },
+  {
+    "title": "Market Entry Assessment",
+    "stage": "intake",
+    "challenge": "Select an initial customer segment for a new B2B service.",
+    "output": "Challenge brief",
+    "health": "Scoping"
+  },
+  {
+    "title": "Pricing Experiment",
+    "stage": "launch",
+    "challenge": "Test willingness to pay without overbuilding the product.",
+    "output": "Experiment plan",
+    "health": "Ready"
+  }
+]
