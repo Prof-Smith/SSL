@@ -1,0 +1,42 @@
+[
+  {
+    "role": "Venture Analyst",
+    "commitment": "Sprint role",
+    "description": "Frame the challenge, maintain the decision log, and integrate workstreams.",
+    "skills": [
+      "strategy",
+      "synthesis"
+    ],
+    "status": "Demo opening"
+  },
+  {
+    "role": "Financial Analyst",
+    "commitment": "Sprint role",
+    "description": "Build transparent economics, scenario, pricing, or runway models.",
+    "skills": [
+      "finance",
+      "modeling"
+    ],
+    "status": "Demo opening"
+  },
+  {
+    "role": "Customer Discovery Researcher",
+    "commitment": "Sprint role",
+    "description": "Design interviews, synthesize observations, and distinguish evidence from claims.",
+    "skills": [
+      "research",
+      "behavior"
+    ],
+    "status": "Demo opening"
+  },
+  {
+    "role": "Prototype and Data Lead",
+    "commitment": "Sprint role",
+    "description": "Translate a decision need into a usable interface, dashboard, or visual model.",
+    "skills": [
+      "design",
+      "data"
+    ],
+    "status": "Demo opening"
+  }
+]
